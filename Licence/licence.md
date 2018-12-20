@@ -1,5 +1,5 @@
 	Copyright (c) December 11, 2018, TanakitInt Tanakit.Int@hotmail.com,
-with Reserved Font Name: "Tanakitkun".
+	with Reserved Font Name: "Tanakitkun".
 
 	This Font Software is licensed under the SIL Open Font License, Version 1.1.
 	This license is copied below, and is also available with a FAQ at:
